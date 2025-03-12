@@ -13,7 +13,7 @@ const App = () => {
       <Header />
 
       <main className="flex-grow p-4">
-        <div className="img-sec flex flex-wrap justify-around gap-4 my-8">
+        <div className="img-sec flex flex-wrap justify-around gap-4 mt-3">
           <img src="./src/assets/img/bgImg1.jpg" alt="Background 1" className="bgimg h-[545px] rounded-lg shadow-lg" />
           <img src="./src/assets/img/bgImg2.jpg" alt="Background 2" className="bgimg h-[545px] rounded-lg shadow-lg" />
           <img src="./src/assets/img/bgImg3.jpg" alt="Background 3" className="bgimg h-[545px] rounded-lg shadow-lg" />

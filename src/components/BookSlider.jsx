@@ -37,7 +37,7 @@ function BookSlider() {
     ]
   };
   return (
-    <div className="w-3/4 m-auto">
+    <div className="w-3/4 m-auto mb-20">
       <div className="mt-20">
         <Slider {...settings} >
         {images.map((m) => (
