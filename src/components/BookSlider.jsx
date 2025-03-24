@@ -41,7 +41,7 @@ function BookSlider() {
       <div className="mt-20">
         <Slider {...settings} >
         {images.map((m) => (
-          <div className='bg-green-200 h-[600px] text-black'>
+          <div className='h-[600px] text-black'>
             <div className='rounded-t-xl flex justify-center mt-5'>
               <img src={m.img} alt='' className='h-[500px] rounded-xl' />
             </div>
