@@ -16,7 +16,7 @@ const Header = () => {
         <ul className="flex justify-center space-x-4 mt-3 mb-2">
           {navLinks.map((link, index) => (
             <li key={index}>
-              <a href={link.href} className="text-white hover:underline text-xl ">
+              <a href={link.href} className="text-white hover:underline text-xl">
                 {link.label}
               </a>
             </li>
