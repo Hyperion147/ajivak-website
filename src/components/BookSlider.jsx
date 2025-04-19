@@ -60,18 +60,23 @@ function BookSlider() {
 
 const images = [
   {
+    sno: 1,
     img: "https://www.vaniprakashan.com/uploads/product_image/dalit-chintan-ka-vikas.jpg"
   },
   {
+    sno: 2,
     img: "https://www.vaniprakashan.com/uploads/product_image/chamar-ki-beti-roopa.jpg"
   },
   {
+    sno: 3,
     img: "https://www.vaniprakashan.com/uploads/product_image/42427afc3622243645d7ffcd9ada2107.jpg"
   },
   {
+    sno: 4,
     img: "https://www.vaniprakashan.com/uploads/product_image/d5179226eb72e9bc7c3af088938f8de0.jpg"
   },
   {
+    sno: 5,
     img: "https://www.vaniprakashan.com/uploads/product_image/63c4cb01943e8ca33eb6c4b24f8e6363.jpg"
   }
   
