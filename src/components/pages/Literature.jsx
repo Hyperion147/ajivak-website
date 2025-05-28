@@ -7,7 +7,7 @@ const LiteratureSection = () => {
         <div className="bg-primary border border-gray-300 rounded-lg p-5 m-2 w-80 shadow-md transition-transform duration-200 hover:scale-105">
           <h2 className="text-white font-medium text-xl px-3">Dr.Dharamvir</h2>
           <img 
-            src="/public/Dharmvir.jpg" 
+            src="https://dg4f756elm.ufs.sh/f/G7qZPEF3toKqpoZZki2laMc1WJqfEtYmV7nKPo0d4DOFCUBj" 
             alt="Dr. Dharamvir" 
             className="w-64 mx-auto my-2"
           />
