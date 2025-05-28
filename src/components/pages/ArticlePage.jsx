@@ -23,7 +23,7 @@ const ArticlePage = () => {
             <div className="lg:w-1/3">
               <div className="relative pb-[75%] overflow-hidden rounded-lg shadow-md">
                 <img 
-                  src="/public/Dharmvir-and-premchand.jpg" 
+                  src="https://dg4f756elm.ufs.sh/f/G7qZPEF3toKqo6sdT9aa6CVIktY2swLRTyJUvQhzKS0G4NMq" 
                   alt="डॉ. धर्मवीर व प्रेमचंद" 
                   className="absolute h-full w-full object-cover"
                 />
