@@ -5,3 +5,13 @@
 .slick-slider > div{
     margin-top: 0 10;
 }
+
+@layer base {
+  :root {
+    --primary: #008080;
+    --secondary: #FFF8E1;
+    --accent: #FF7E6B;
+    --text: #4A3A2A;
+    --background: #F5F5DC;
+  }
+}
